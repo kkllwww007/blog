@@ -1,3 +1,5 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20160731_01.md   [《如何度量Kernel Resources for PostgreSQL》](20160731_01.md)  
@@ -14,7 +16,7 @@
 ##### 20160725_05.md   [《PostgreSQL 如何高效解决 按任意字段分词检索的问题 - case 1》](20160725_05.md)  
 ##### 20160725_04.md   [《PostgreSQL Oracle 兼容性之 - 锁定执行计划(Outline system)》](20160725_04.md)  
 ##### 20160725_03.md   [《mongoDB BI 分析利器 - PostgreSQL FDW (MongoDB Connector for BI)》](20160725_03.md)  
-##### 20160725_02.md   [《如何加快PostgreSQL结巴分词加载速度》](20160725_02.md)  
+##### 20160725_02.md   [《如何加快PostgreSQL结巴分词pg_jieba加载速度》](20160725_02.md)  
 ##### 20160725_01.md   [《PostgreSQL 使用递归SQL 找出数据库对象之间的依赖关系》](20160725_01.md)  
 ##### 20160723_03.md   [《一致性哈希在分布式数据库中的应用探索》](20160723_03.md)  
 ##### 20160723_02.md   [《关键时刻HINT出彩 - PG优化器的参数优化、执行计划固化CASE》](20160723_02.md)  
@@ -23,7 +25,7 @@
 ##### 20160722_02.md   [《Greenplum 大集群应该调整的sshd_config配置》](20160722_02.md)  
 ##### 20160722_01.md   [《SSH服务的几个超时参数 以及 类似DDOS攻击的方法》](20160722_01.md)  
 ##### 20160721_03.md   [《阿里云RDS for PostgreSQL用户如何定制数据库参数》](20160721_03.md)  
-##### 20160721_02.md   [《阿里云RDS PG/PPAS 用户连接规划》](20160721_02.md)  
+##### 20160721_02.md   [《阿里云RDS PG/PPAS(Oracle 兼容版) 用户连接规划》](20160721_02.md)  
 ##### 20160721_01.md   [《PostgreSQL 编译选项-g的影响》](20160721_01.md)  
 ##### 20160719_02.md   [《Greenplum 最佳实践 - 数据分布黄金法则 - 分布列与分区的选择》](20160719_02.md)  
 ##### 20160719_01.md   [《阿里云ApsaraDB RDS用户 - OLAP最佳实践》](20160719_01.md)  
@@ -33,6 +35,9 @@
 ##### 20160715_03.md   [《Greenplum 最佳实践 - 三张图读懂OLAP数据库在企业的正确使用姿势》](20160715_03.md)  
 ##### 20160715_02.md   [《PostgreSQL 数据访问 offset 的质变 case》](20160715_02.md)  
 ##### 20160715_01.md   [《PostgreSQL 老湿机图解平安科技遇到的垃圾回收"坑"》](20160715_01.md)  
+##### 20160714_03.md   [《如何防止远程程序与RDS PG连接中断》](20160714_03.md)  
+##### 20160714_02.md   [《PostgreSQL PL/Perl 钩子安全性分析》](20160714_02.md)  
 ##### 20160714_01.md   [《PostgreSQL Oracle 兼容性之 - PL/SQL record, table类型定义》](20160714_01.md)  
+##### 20160713_01.md   [《连接 0.0.0.0/32 发生了什么》](20160713_01.md)  
 ##### 20160710_01.md   [《聊一聊双十一背后的技术 - 物流, 动态路径规划》](20160710_01.md)  
 ##### 20160709_01.md   [《PostgreSQL relcache在长连接应用中的内存霸占"坑"》](20160709_01.md)  

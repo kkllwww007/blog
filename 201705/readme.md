@@ -1,3 +1,5 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20170526_01.md   [《数据库的未来 - HTAP，软件、硬件、云生态的融合》](20170526_01.md)  
@@ -18,9 +20,9 @@
 ##### 20170509_02.md   [《海量数据 "写入、共享、存储、计算" 最佳实践》](20170509_02.md)  
 ##### 20170509_01.md   [《PostgreSQL 10 解读》](20170509_01.md)  
 ##### 20170507_02.md   [《PostgreSQL 使用advisory lock实现行级读写堵塞》](20170507_02.md)  
-##### 20170507_01.md   [《数据库优化器原理 - 如何治疗选择综合症》](20170507_01.md)  
+##### 20170507_01.md   [《数据库优化器原理(含动态规划、机器学习建模优化器aqo) - 如何治疗选择综合症》](20170507_01.md)  
 ##### 20170506_01.md   [《Greenplum 跨库数据JOIN需求 - dblink的使用和弊端以及解决方案》](20170506_01.md)  
-##### 20170504_04.md   [《PostgreSQL 聚合表达式 FILTER , order , within group 用法》](20170504_04.md)  
+##### 20170504_04.md   [《PostgreSQL 聚合表达式 FILTER , order , within group, over window 用法》](20170504_04.md)  
 ##### 20170504_03.md   [《异步流复制模式如何保证不丢数据?》](20170504_03.md)  
 ##### 20170504_02.md   [《从redo日志分析数据库的profile》](20170504_02.md)  
 ##### 20170504_01.md   [《PostgreSQL全角、半角互相转换》](20170504_01.md)  

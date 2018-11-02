@@ -1,3 +1,5 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20150930_01.md   [《PostgreSQL function 会遗传security 属性吗？》](20150930_01.md)  
@@ -14,11 +16,12 @@
 ##### 20150924_03.md   [《PostgreSQL json jsonb 支持的value数据类型，如何构造一个jsonb》](20150924_03.md)  
 ##### 20150924_02.md   [《PostgreSQL jdbc 9.4 支持load balance 和 connection failover了》](20150924_02.md)  
 ##### 20150924_01.md   [《请勿滥用 2PC, 忘记提交prepared transaction对PostgreSQL造成的危害.》](20150924_01.md)  
+##### 20150923_03.md   [《PostgreSQL 混合场景benchmark计算方法》](20150923_03.md)  
 ##### 20150923_02.md   [《PostgreSQL 混合场景benchmark估算方法》](20150923_02.md)  
 ##### 20150923_01.md   [《PostgreSQL OID 源码分析》](20150923_01.md)  
 ##### 20150922_01.md   [《PostgreSQL 批量调用函数的方法》](20150922_01.md)  
 ##### 20150921_01.md   [《PostgreSQL Oracle 兼容性之 - Oracle FORALL & PostgreSQL ? op any|all (ARRAY)》](20150921_01.md)  
-##### 20150919_02.md   [《妙用explain Plan Rows快速估算行》](20150919_02.md)  
+##### 20150919_02.md   [《妙用explain Plan Rows快速估算行 - 分页数估算》](20150919_02.md)  
 ##### 20150919_01.md   [《PostgreSQL数据库监控中的统计学 - 对象SIZE的数据分布图》](20150919_01.md)  
 ##### 20150916_02.md   [《substituting access method \"gist\" for obsolete method \"rtree》](20150916_02.md)  
 ##### 20150916_01.md   [《Core dump 分析》](20150916_01.md)  
@@ -29,6 +32,8 @@
 ##### 20150911_01.md   [《don't shutdown postgresql before call pg_stop_backup() - 备份结束前，不要停库，源码分析》](20150911_01.md)  
 ##### 20150910_01.md   [《云时代，我们需要PostgreSQL，需要服务端编程》](20150910_01.md)  
 ##### 20150908_01.md   [《londiste3 copy table' snapshot & PostgreSQL logical replication's snapshot 不同之处》](20150908_01.md)  
+##### 20150907_04.md   [《PostgreSQL 回归测试》](20150907_04.md)  
+##### 20150907_03.md   [《PostgreSQL src/Makefile.global中的小坑》](20150907_03.md)  
 ##### 20150907_02.md   [《PostgreSQL C代码覆盖率测试(gcov, lcov)》](20150907_02.md)  
 ##### 20150907_01.md   [《piggly, 一个plpgsql 代码覆盖测试工具》](20150907_01.md)  
 ##### 20150906_05.md   [《用PostgreSQL玩国际象棋》](20150906_05.md)  

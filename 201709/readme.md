@@ -1,12 +1,14 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20170927_03.md   [《PostgreSQL 在铁老大订单系统中的schemaless设计和性能压测》](20170927_03.md)  
 ##### 20170927_02.md   [《PostgreSQL 10 PostGIS 兼容性 FIX》](20170927_02.md)  
-##### 20170927_01.md   [《PostgreSQL Oracle 兼容性 之 TABLE、PIPELINED函数》](20170927_01.md)  
+##### 20170927_01.md   [《PostgreSQL Oracle 兼容性 之 TABLE、PIPELINED函数(流式返回、返回多行、返回表、返回任意结构)》](20170927_01.md)  
 ##### 20170926_02.md   [《PostgreSQL Oracle 兼容性 之 USERENV》](20170926_02.md)  
 ##### 20170926_01.md   [《PostgreSQL Oracle 兼容性 之 NUMTODSINTERVAL》](20170926_01.md)  
 ##### 20170925_03.md   [《PostgreSQL 空间、多维 序列 生成方法》](20170925_03.md)  
-##### 20170925_02.md   [《PostgreSQL 事件触发器应用 - DDL审计记录》](20170925_02.md)  
+##### 20170925_02.md   [《PostgreSQL 事件触发器应用 - DDL审计记录 + 异步通知(notify)》](20170925_02.md)  
 ##### 20170925_01.md   [《PostgreSQL汉字转拼音的函数》](20170925_01.md)  
 ##### 20170923_01.md   [《经营、销售分析系统DB设计之PostgreSQL, Greenplum - 共享充电宝 案例实践》](20170923_01.md)  
 ##### 20170922_01.md   [《PostgreSQL Oracle兼容性之 session_id》](20170922_01.md)  
@@ -25,7 +27,7 @@
 ##### 20170911_01.md   [《地理坐标系（球面坐标系）和投影坐标系（平面坐标系）》](20170911_01.md)  
 ##### 20170906_03.md   [《PostgreSQL vs Greenplum Hash outer join hash表的选择》](20170906_03.md)  
 ##### 20170906_02.md   [《A Look at How PostgreSQL Executes a Tiny Join (HashJoin)》](20170906_02.md)  
-##### 20170906_01.md   [《阿里云RDS PostgreSQL OSS 外部表 - (dblink异步调用封装)并行写提速案例》](20170906_01.md)  
+##### 20170906_01.md   [《阿里云RDS PostgreSQL OSS 外部表实践 - (dblink异步调用封装并行) 数据并行导出到OSS》](20170906_01.md)  
 ##### 20170905_01.md   [《PostgreSQL 黑科技 - 空间聚集存储, 内窥GIN, GiST, SP-GiST索引》](20170905_01.md)  
 ##### 20170902_02.md   [《PostgreSQL 10 黑科技 - 自定义统计信息》](20170902_02.md)  
 ##### 20170902_01.md   [《PostgreSQL cube 插件 - 多维空间对象》](20170902_01.md)  

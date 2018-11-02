@@ -1,9 +1,11 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20170427_01.md   [《radix tree在数据库PostgreSQL中的一些应用举例》](20170427_01.md)  
-##### 20170426_01.md   [《PostgreSQL 模糊查询最佳实践》](20170426_01.md)  
+##### 20170426_01.md   [《PostgreSQL 模糊查询最佳实践 - (含单字、双字、多字模糊查询方法)》](20170426_01.md)  
 ##### 20170425_01.md   [《PostgreSQL 中生成随机汉字》](20170425_01.md)  
-##### 20170424_06.md   [《PostgreSQL 如何查找TOP SQL (例如IO消耗最高的SQL)》](20170424_06.md)  
+##### 20170424_06.md   [《PostgreSQL 如何查找TOP SQL (例如IO消耗最高的SQL) (包含SQL优化内容) - 珍藏级》](20170424_06.md)  
 ##### 20170424_05.md   [《PostgreSQL 如何实现批量更新、删除、插入》](20170424_05.md)  
 ##### 20170424_04.md   [《PostgreSQL upsert功能(insert on conflict do)的用法》](20170424_04.md)  
 ##### 20170424_03.md   [《如何按拼音排序 - 数据库本土化特性(collate, ctype, ...)》](20170424_03.md)  

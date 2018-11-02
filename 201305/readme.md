@@ -1,5 +1,10 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
+##### 20130531_02.md   [《PostgreSQL 定时任务方法2》](20130531_02.md)  
+##### 20130531_01.md   [《PostgreSQL Oracle 兼容性之 - DBMS_JOBS - Daily Maintenance - Timing Tasks(pgagent)》](20130531_01.md)  
+##### 20130527_01.md   [《PostgreSQL backup and recovery - online backup & Point-In-Time-Recovery》](20130527_01.md)  
 ##### 20130523_01.md   [《PostgreSQL performance test use ssh tunnel》](20130523_01.md)  
 ##### 20130522_02.md   [《PostgreSQL ssl ciphers performance 比较》](20130522_02.md)  
 ##### 20130522_01.md   [《PostgreSQL 如何实现网络压缩传输或加密传输(openssl)》](20130522_01.md)  

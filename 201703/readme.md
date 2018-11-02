@@ -1,3 +1,5 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20170331_03.md   [《PostgreSQL 10.0 preview sharding增强 - 支持分布式事务》](20170331_03.md)  
@@ -8,13 +10,13 @@
 ##### 20170330_04.md   [《PostgreSQL 10.0 preview 功能增强 - 国际化功能增强,支持ICU(International Components for Unicode)》](20170330_04.md)  
 ##### 20170330_03.md   [《PostgreSQL 10.0 preview 功能增强 - 支持分区表ON CONFLICT .. DO NOTHING》](20170330_03.md)  
 ##### 20170330_02.md   [《PostgreSQL 10.0 preview 性能增强 - 推出JIT开发框架(朝着HTAP迈进)》](20170330_02.md)  
-##### 20170330_01.md   [《PostgreSQL 10.0 preview 功能增强 - 备库支持逻辑订阅,订阅支持主备漂移了》](20170330_01.md)  
+##### 20170330_01.md   [《PostgreSQL 10.0 preview 功能增强 - 物理备库支持逻辑订阅,订阅支持物理主备HA漂移》](20170330_01.md)  
 ##### 20170329_03.md   [《PostgreSQL jdbc batch insert》](20170329_03.md)  
 ##### 20170329_02.md   [《PostgreSQL 10.0 preview 性能增强 - GIN索引vacuum锁降低》](20170329_02.md)  
 ##### 20170329_01.md   [《PostgreSQL 10.0 preview 功能增强 - 流复制统计视图pg_stat_replication增强, 新增时间维度延迟评估》](20170329_01.md)  
 ##### 20170328_05.md   [《一张图读懂RDBMS的历史和基因》](20170328_05.md)  
 ##### 20170328_04.md   [《视觉挖掘与PostGIS空间数据库的完美邂逅 - 广告营销\圈人》](20170328_04.md)  
-##### 20170328_03.md   [《PostGIS 多点几何类型 空字符构造异常CASE》](20170328_03.md)  
+##### 20170328_03.md   [《PostGIS 多点几何类型 空字符构造异常CASE - parse error - invalid geometry (lwgeom_pg.c:96)》](20170328_03.md)  
 ##### 20170328_02.md   [《PostgreSQL 10.0 preview 功能增强 - CLOG oldest XID跟踪》](20170328_02.md)  
 ##### 20170328_01.md   [《PostgreSQL 10.0 preview 功能增强 - 逻辑复制支持并行COPY初始化数据》](20170328_01.md)  
 ##### 20170327_01.md   [《开放地图OpenStreetMap与PostGIS的三生三世十里桃花》](20170327_01.md)  
@@ -48,9 +50,9 @@
 ##### 20170313_02.md   [《PostgreSQL 10.0 preview 功能增强 - 分区表(hash,range,list)》](20170313_02.md)  
 ##### 20170313_01.md   [《PostgreSQL 10.0 preview 功能增强 - 支持EUI-64格式MAC地址类型》](20170313_01.md)  
 ##### 20170312_24.md   [《PostgreSQL 10.0 preview 功能增强 - JSON 内容全文检索》](20170312_24.md)  
-##### 20170312_23.md   [《PostgreSQL 10.0 preview 功能增强 - 唯一约束+附加字段组合功能索引》](20170312_23.md)  
+##### 20170312_23.md   [《PostgreSQL 10.0 preview 功能增强 - 唯一约束+附加字段组合功能索引 - 覆盖索引 - covering index》](20170312_23.md)  
 ##### 20170312_22.md   [《PostgreSQL 10.0 preview 功能增强 - 匿名、自治事务(Oracle 兼容性)(background session)》](20170312_22.md)  
-##### 20170312_21.md   [《PostgreSQL 10.0 preview 性能增强 - 间接索引(secondary index)》](20170312_21.md)  
+##### 20170312_21.md   [《PostgreSQL 10.0 preview 性能增强 - 间接索引(secondary index)、二级索引》](20170312_21.md)  
 ##### 20170312_20.md   [《PostgreSQL 10.0 preview sharding增强 - pushdown 增强》](20170312_20.md)  
 ##### 20170312_19.md   [《PostgreSQL 10.0 preview 功能增强 - slave提前苏醒》](20170312_19.md)  
 ##### 20170312_18.md   [《PostgreSQL 10.0 preview 功能增强 - slave支持WAITLSN 'lsn', time;用于设置安全replay栅栏》](20170312_18.md)  

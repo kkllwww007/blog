@@ -1,3 +1,5 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20170827_02.md   [《PostgreSQL 助力企业打开时空之门 - 阿里云(RDS、HybridDB) for PostgreSQL最佳实践》](20170827_02.md)  
@@ -19,8 +21,9 @@
 ##### 20170818_03.md   [《Greenplum 列存储加字段现象 - AO列存储未使用相对偏移》](20170818_03.md)  
 ##### 20170818_02.md   [《Greenplum 行存、列存，堆表、AO表的原理和选择》](20170818_02.md)  
 ##### 20170818_01.md   [《PostgreSQL 单列组合查询优化 - 多个多边形查询优化》](20170818_01.md)  
+##### 20170817_03.md   [《Greenplum 列存表(AO表)的膨胀、垃圾检查与空间收缩(含修改分布键)》](20170817_03.md)  
 ##### 20170817_02.md   [《手工清理 cgroup中的page cache》](20170817_02.md)  
-##### 20170817_01.md   [《如何检测、清理Greenplum垃圾 - 阿里云HybridDB for PG最佳实践》](20170817_01.md)  
+##### 20170817_01.md   [《如何检测、清理Greenplum膨胀、垃圾(含修改分布键) - 阿里云HybridDB for PG最佳实践》](20170817_01.md)  
 ##### 20170815_01.md   [《解读2017-08-10发布的几个安全漏洞》](20170815_01.md)  
 ##### 20170812_01.md   [《PostgreSQL on ECS多云盘的部署、快照备份和恢复》](20170812_01.md)  
 ##### 20170809_02.md   [《解密上帝之手 - 阿里云HDB for PostgreSQL数据库metascan特性(存储级、块级、batch级过滤与数据编排)》](20170809_02.md)  
